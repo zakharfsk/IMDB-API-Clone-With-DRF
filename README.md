@@ -1,5 +1,8 @@
 # IMDB API Clone With DRF
 
+<h3>Course: https://www.udemy.com/course/django-rest-framework/</h3>
+<h3>Certificate: https://www.udemy.com/certificate/UC-2420dc41-217c-4ac1-91c1-17c41f73741f/</h3> 
+
 <h3>🔗 Final Project Links (Arranged According To Usage)</h3>
 <br>
 
